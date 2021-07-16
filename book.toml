@@ -2,5 +2,9 @@
 authors = ["Elton Zheng"]
 language = "zh"
 multilingual = false
+description = "The note book for Rust Web Development."
 src = "src"
-title = "Rust Web Development"
+title = "The Notebook for Rust Web Development"
+
+[rust]
+edition = "2018"
